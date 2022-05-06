@@ -1,4 +1,4 @@
-baseurl: https://ignatmaldive.github.io
+baseurl: https://ignatmaldive.github.io/projects/
 languageCode: en-us
 theme: hugo-theme-stack
 paginate: 5
