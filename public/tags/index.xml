@@ -1,15 +1,151 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
     <channel>
-        <title>Tags on Example Site</title>
+        <title>Tags on Ignacio Mondine</title>
         <link>https://ignatmaldive.github.io/projects/tags/</link>
-        <description>Recent content in Tags on Example Site</description>
+        <description>Recent content in Tags on Ignacio Mondine</description>
         <generator>Hugo -- gohugo.io</generator>
         <language>en-us</language>
-        <lastBuildDate>Mon, 11 Mar 2019 00:00:00 +0000</lastBuildDate><atom:link href="https://ignatmaldive.github.io/projects/tags/index.xml" rel="self" type="application/rss+xml" /><item>
+        <lastBuildDate>Sat, 09 Jan 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://ignatmaldive.github.io/projects/tags/index.xml" rel="self" type="application/rss+xml" /><item>
+        <title>Digital Fabrication</title>
+        <link>https://ignatmaldive.github.io/projects/tags/digital-fabrication/</link>
+        <pubDate>Sat, 09 Jan 2021 00:00:00 +0000</pubDate>
+        
+        <guid>https://ignatmaldive.github.io/projects/tags/digital-fabrication/</guid>
+        <description></description>
+        </item>
+        <item>
+        <title>Flutter</title>
+        <link>https://ignatmaldive.github.io/projects/tags/flutter/</link>
+        <pubDate>Sat, 09 Jan 2021 00:00:00 +0000</pubDate>
+        
+        <guid>https://ignatmaldive.github.io/projects/tags/flutter/</guid>
+        <description></description>
+        </item>
+        <item>
+        <title>ماركداون</title>
+        <link>https://ignatmaldive.github.io/projects/tags/%D9%85%D8%A7%D8%B1%D9%83%D8%AF%D8%A7%D9%88%D9%86/</link>
+        <pubDate>Sat, 09 Mar 2019 00:00:00 +0000</pubDate>
+        
+        <guid>https://ignatmaldive.github.io/projects/tags/%D9%85%D8%A7%D8%B1%D9%83%D8%AF%D8%A7%D9%88%D9%86/</guid>
+        <description></description>
+        </item>
+        <item>
+        <title>نص</title>
+        <link>https://ignatmaldive.github.io/projects/tags/%D9%86%D8%B5/</link>
+        <pubDate>Sat, 09 Mar 2019 00:00:00 +0000</pubDate>
+        
+        <guid>https://ignatmaldive.github.io/projects/tags/%D9%86%D8%B5/</guid>
+        <description></description>
+        </item>
+        <item>
+        <title>وسم مع فراغات</title>
+        <link>https://ignatmaldive.github.io/projects/tags/%D9%88%D8%B3%D9%85-%D9%85%D8%B9-%D9%81%D8%B1%D8%A7%D8%BA%D8%A7%D8%AA/</link>
+        <pubDate>Sat, 09 Mar 2019 00:00:00 +0000</pubDate>
+        
+        <guid>https://ignatmaldive.github.io/projects/tags/%D9%88%D8%B3%D9%85-%D9%85%D8%B9-%D9%81%D8%B1%D8%A7%D8%BA%D8%A7%D8%AA/</guid>
+        <description></description>
+        </item>
+        <item>
+        <title>Arduino</title>
+        <link>https://ignatmaldive.github.io/projects/tags/arduino/</link>
+        <pubDate>Sat, 09 Feb 2019 00:00:00 +0000</pubDate>
+        
+        <guid>https://ignatmaldive.github.io/projects/tags/arduino/</guid>
+        <description></description>
+        </item>
+        <item>
+        <title>Bluetooth</title>
+        <link>https://ignatmaldive.github.io/projects/tags/bluetooth/</link>
+        <pubDate>Sat, 09 Feb 2019 00:00:00 +0000</pubDate>
+        
+        <guid>https://ignatmaldive.github.io/projects/tags/bluetooth/</guid>
+        <description></description>
+        </item>
+        <item>
+        <title>microcontroller</title>
+        <link>https://ignatmaldive.github.io/projects/tags/microcontroller/</link>
+        <pubDate>Sat, 09 Feb 2019 00:00:00 +0000</pubDate>
+        
+        <guid>https://ignatmaldive.github.io/projects/tags/microcontroller/</guid>
+        <description></description>
+        </item>
+        <item>
+        <title>Processing</title>
+        <link>https://ignatmaldive.github.io/projects/tags/processing/</link>
+        <pubDate>Sat, 09 Feb 2019 00:00:00 +0000</pubDate>
+        
+        <guid>https://ignatmaldive.github.io/projects/tags/processing/</guid>
+        <description></description>
+        </item>
+        <item>
+        <title>multi-touch</title>
+        <link>https://ignatmaldive.github.io/projects/tags/multi-touch/</link>
+        <pubDate>Sat, 09 Aug 2008 00:00:00 +0000</pubDate>
+        
+        <guid>https://ignatmaldive.github.io/projects/tags/multi-touch/</guid>
+        <description></description>
+        </item>
+        <item>
+        <title>telepresence</title>
+        <link>https://ignatmaldive.github.io/projects/tags/telepresence/</link>
+        <pubDate>Sat, 09 Aug 2008 00:00:00 +0000</pubDate>
+        
+        <guid>https://ignatmaldive.github.io/projects/tags/telepresence/</guid>
+        <description></description>
+        </item>
+        <item>
+        <title>Amena</title>
+        <link>https://ignatmaldive.github.io/projects/tags/amena/</link>
+        <pubDate>Wed, 09 Aug 2006 00:00:00 +0000</pubDate>
+        
+        <guid>https://ignatmaldive.github.io/projects/tags/amena/</guid>
+        <description></description>
+        </item>
+        <item>
+        <title>Movistar</title>
+        <link>https://ignatmaldive.github.io/projects/tags/movistar/</link>
+        <pubDate>Wed, 09 Aug 2006 00:00:00 +0000</pubDate>
+        
+        <guid>https://ignatmaldive.github.io/projects/tags/movistar/</guid>
+        <description></description>
+        </item>
+        <item>
+        <title>Vodafone</title>
+        <link>https://ignatmaldive.github.io/projects/tags/vodafone/</link>
+        <pubDate>Wed, 09 Aug 2006 00:00:00 +0000</pubDate>
+        
+        <guid>https://ignatmaldive.github.io/projects/tags/vodafone/</guid>
+        <description></description>
+        </item>
+        <item>
+        <title>fabricación digital</title>
+        <link>https://ignatmaldive.github.io/projects/tags/fabricaci%C3%B3n-digital/</link>
+        <pubDate>Wed, 09 Jun 2004 00:00:00 +0000</pubDate>
+        
+        <guid>https://ignatmaldive.github.io/projects/tags/fabricaci%C3%B3n-digital/</guid>
+        <description></description>
+        </item>
+        <item>
+        <title>HMD</title>
+        <link>https://ignatmaldive.github.io/projects/tags/hmd/</link>
+        <pubDate>Sun, 09 Feb 2003 00:00:00 +0000</pubDate>
+        
+        <guid>https://ignatmaldive.github.io/projects/tags/hmd/</guid>
+        <description></description>
+        </item>
+        <item>
+        <title>Image Recognition</title>
+        <link>https://ignatmaldive.github.io/projects/tags/image-recognition/</link>
+        <pubDate>Sun, 09 Feb 2003 00:00:00 +0000</pubDate>
+        
+        <guid>https://ignatmaldive.github.io/projects/tags/image-recognition/</guid>
+        <description></description>
+        </item>
+        <item>
         <title>css</title>
         <link>https://ignatmaldive.github.io/projects/tags/css/</link>
-        <pubDate>Mon, 11 Mar 2019 00:00:00 +0000</pubDate>
+        <pubDate>Sat, 11 Mar 2000 00:00:00 +0000</pubDate>
         
         <guid>https://ignatmaldive.github.io/projects/tags/css/</guid>
         <description></description>
@@ -17,7 +153,7 @@
         <item>
         <title>html</title>
         <link>https://ignatmaldive.github.io/projects/tags/html/</link>
-        <pubDate>Mon, 11 Mar 2019 00:00:00 +0000</pubDate>
+        <pubDate>Sat, 11 Mar 2000 00:00:00 +0000</pubDate>
         
         <guid>https://ignatmaldive.github.io/projects/tags/html/</guid>
         <description></description>
@@ -25,7 +161,7 @@
         <item>
         <title>markdown</title>
         <link>https://ignatmaldive.github.io/projects/tags/markdown/</link>
-        <pubDate>Mon, 11 Mar 2019 00:00:00 +0000</pubDate>
+        <pubDate>Sat, 11 Mar 2000 00:00:00 +0000</pubDate>
         
         <guid>https://ignatmaldive.github.io/projects/tags/markdown/</guid>
         <description></description>
@@ -33,7 +169,7 @@
         <item>
         <title>themes</title>
         <link>https://ignatmaldive.github.io/projects/tags/themes/</link>
-        <pubDate>Mon, 11 Mar 2019 00:00:00 +0000</pubDate>
+        <pubDate>Sat, 11 Mar 2000 00:00:00 +0000</pubDate>
         
         <guid>https://ignatmaldive.github.io/projects/tags/themes/</guid>
         <description></description>
@@ -41,7 +177,7 @@
         <item>
         <title>privacy</title>
         <link>https://ignatmaldive.github.io/projects/tags/privacy/</link>
-        <pubDate>Sun, 10 Mar 2019 00:00:00 +0000</pubDate>
+        <pubDate>Wed, 10 Mar 1999 00:00:00 +0000</pubDate>
         
         <guid>https://ignatmaldive.github.io/projects/tags/privacy/</guid>
         <description></description>
@@ -49,33 +185,9 @@
         <item>
         <title>shortcodes</title>
         <link>https://ignatmaldive.github.io/projects/tags/shortcodes/</link>
-        <pubDate>Sun, 10 Mar 2019 00:00:00 +0000</pubDate>
+        <pubDate>Wed, 10 Mar 1999 00:00:00 +0000</pubDate>
         
         <guid>https://ignatmaldive.github.io/projects/tags/shortcodes/</guid>
-        <description></description>
-        </item>
-        <item>
-        <title>tag with whitespaces</title>
-        <link>https://ignatmaldive.github.io/projects/tags/tag-with-whitespaces/</link>
-        <pubDate>Sat, 09 Mar 2019 00:00:00 +0000</pubDate>
-        
-        <guid>https://ignatmaldive.github.io/projects/tags/tag-with-whitespaces/</guid>
-        <description></description>
-        </item>
-        <item>
-        <title>text</title>
-        <link>https://ignatmaldive.github.io/projects/tags/text/</link>
-        <pubDate>Sat, 09 Mar 2019 00:00:00 +0000</pubDate>
-        
-        <guid>https://ignatmaldive.github.io/projects/tags/text/</guid>
-        <description></description>
-        </item>
-        <item>
-        <title>emoji</title>
-        <link>https://ignatmaldive.github.io/projects/tags/emoji/</link>
-        <pubDate>Tue, 05 Mar 2019 00:00:00 +0000</pubDate>
-        
-        <guid>https://ignatmaldive.github.io/projects/tags/emoji/</guid>
         <description></description>
         </item>
         

@@ -1,19 +1,60 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
     <channel>
-        <title>Test with whitespaces on Example Site</title>
+        <title>Test with whitespaces on Ignacio Mondine</title>
         <link>https://ignatmaldive.github.io/projects/categories/test-with-whitespaces/</link>
-        <description>Recent content in Test with whitespaces on Example Site</description>
+        <description>Recent content in Test with whitespaces on Ignacio Mondine</description>
         <generator>Hugo -- gohugo.io</generator>
         <language>en-us</language>
-        <lastBuildDate>Sat, 09 Mar 2019 00:00:00 +0000</lastBuildDate><atom:link href="https://ignatmaldive.github.io/projects/categories/test-with-whitespaces/index.xml" rel="self" type="application/rss+xml" /><item>
-        <title>Placeholder Text</title>
-        <link>https://ignatmaldive.github.io/projects/p/placeholder-text/</link>
-        <pubDate>Sat, 09 Mar 2019 00:00:00 +0000</pubDate>
+        <lastBuildDate>Sat, 09 Feb 2019 00:00:00 +0000</lastBuildDate><atom:link href="https://ignatmaldive.github.io/projects/categories/test-with-whitespaces/index.xml" rel="self" type="application/rss+xml" /><item>
+        <title>Pedal Power</title>
+        <link>https://ignatmaldive.github.io/projects/p/pedal-power/</link>
+        <pubDate>Sat, 09 Feb 2019 00:00:00 +0000</pubDate>
         
-        <guid>https://ignatmaldive.github.io/projects/p/placeholder-text/</guid>
-        <description>&lt;img src="https://ignatmaldive.github.io/projects/p/placeholder-text/matt-le-SJSpo9hQf7s-unsplash.jpg" alt="Featured image of post Placeholder Text" /&gt;&lt;p&gt;Lorem est tota propiore conpellat pectoribus de pectora summo.&lt;/p&gt;
-&lt;p&gt;Redit teque digerit hominumque toris verebor lumina non cervice subde tollit usus habet Arctonque, furores quas nec ferunt. Quoque montibus nunc caluere tempus inhospita parcite confusaque translucet patri vestro qui optatis lumine cognoscere flos nubis! Fronde ipsamque patulos Dryopen deorum.&lt;/p&gt;
+        <guid>https://ignatmaldive.github.io/projects/p/pedal-power/</guid>
+        <description>&lt;img src="https://ignatmaldive.github.io/projects/p/pedal-power/pedal_power.jpg" alt="Featured image of post Pedal Power" /&gt;&lt;p&gt;Pedal Power es una instalación de bicicletas que permite la transformación de la energía cinética, generada por el pedaleo, en energía eléctrica.&lt;/p&gt;
+&lt;p&gt;Esta energía, producida por el público de manera lúdica y participativa, puede ser utilizada, dependiendo de los consumos, para alimentar todo tipo de aparatos eléctricos y así dar vida a un sin fin de eventos tanto culturales como comerciales.&lt;/p&gt;
+&lt;h2 id=&#34;image-gallery&#34;&gt;Image Gallery&lt;/h2&gt;
+&lt;p&gt;&lt;img src=&#34;https://ignatmaldive.github.io/projects/projects/p/pedal-power/01.png&#34;
+	width=&#34;880&#34;
+	height=&#34;695&#34;
+	srcset=&#34;https://ignatmaldive.github.io/projects/projects/p/pedal-power/01_hu28ed046c70d593575bb6f2099323c9b0_681611_480x0_resize_box_3.png 480w, https://ignatmaldive.github.io/projects/projects/p/pedal-power/01_hu28ed046c70d593575bb6f2099323c9b0_681611_1024x0_resize_box_3.png 1024w&#34;
+	loading=&#34;lazy&#34;
+	
+		alt=&#34;texto&#34;
+	
+	
+		class=&#34;gallery-image&#34; 
+		data-flex-grow=&#34;126&#34;
+		data-flex-basis=&#34;303px&#34;
+	
+&gt;  &lt;img src=&#34;https://ignatmaldive.github.io/projects/projects/p/pedal-power/02.png&#34;
+	width=&#34;798&#34;
+	height=&#34;695&#34;
+	srcset=&#34;https://ignatmaldive.github.io/projects/projects/p/pedal-power/02_hu2b3e5eb7ce863657c6d85d9cecbf06dc_734773_480x0_resize_box_3.png 480w, https://ignatmaldive.github.io/projects/projects/p/pedal-power/02_hu2b3e5eb7ce863657c6d85d9cecbf06dc_734773_1024x0_resize_box_3.png 1024w&#34;
+	loading=&#34;lazy&#34;
+	
+		alt=&#34;Photo by Luca Bravo on Unsplash&#34;
+	
+	
+		class=&#34;gallery-image&#34; 
+		data-flex-grow=&#34;114&#34;
+		data-flex-basis=&#34;275px&#34;
+	
+&gt; &lt;img src=&#34;https://ignatmaldive.github.io/projects/projects/p/pedal-power/03.png&#34;
+	width=&#34;985&#34;
+	height=&#34;545&#34;
+	srcset=&#34;https://ignatmaldive.github.io/projects/projects/p/pedal-power/03_hu642dcb8d52402e4d76bf4dbefbcb8ffa_124611_480x0_resize_box_3.png 480w, https://ignatmaldive.github.io/projects/projects/p/pedal-power/03_hu642dcb8d52402e4d76bf4dbefbcb8ffa_124611_1024x0_resize_box_3.png 1024w&#34;
+	loading=&#34;lazy&#34;
+	
+		alt=&#34;Photo by Luca Bravo on Unsplash&#34;
+	
+	
+		class=&#34;gallery-image&#34; 
+		data-flex-grow=&#34;180&#34;
+		data-flex-basis=&#34;433px&#34;
+	
+&gt;&lt;/p&gt;
 &lt;ol&gt;
 &lt;li&gt;Exierant elisi ambit vivere dedere&lt;/li&gt;
 &lt;li&gt;Duce pollice&lt;/li&gt;
@@ -33,9 +74,15 @@
 &lt;p&gt;&lt;a class=&#34;link&#34; href=&#34;https://en.wikipedia.org/wiki/Canons_of_page_construction#Van_de_Graaf_canon&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
     &gt;The Van de Graaf Canon&lt;/a&gt;&lt;/p&gt;
 &lt;h2 id=&#34;mane-refeci-capiebant-unda-mulcebat&#34;&gt;Mane refeci capiebant unda mulcebat&lt;/h2&gt;
-&lt;p&gt;Victa caducifer, malo vulnere contra dicere aurato, ludit regale, voca! Retorsit colit est profanae esse virescere furit nec; iaculi matertera et visa est, viribus. Divesque creatis, tecta novat collumque vulnus est, parvas. &lt;strong&gt;Faces illo pepulere&lt;/strong&gt; tempus adest. Tendit flamma, ab opes virum sustinet, sidus sequendo urbis.&lt;/p&gt;
-&lt;p&gt;Iubar proles corpore raptos vero auctor imperium; sed et huic: manus caeli Lelegas tu lux. Verbis obstitit intus oblectamina fixis linguisque ausus sperare Echionides cornuaque tenent clausit possit. Omnia putatur. Praeteritae refert ausus; ferebant e primus lora nutat, vici quae mea ipse. Et iter nil spectatae vulnus haerentia iuste et exercebat, sui et.&lt;/p&gt;
-&lt;p&gt;Eurytus Hector, materna ipsumque ut Politen, nec, nate, ignari, vernum cohaesit sequitur. Vel &lt;strong&gt;mitis temploque&lt;/strong&gt; vocatus, inque alis, &lt;em&gt;oculos nomen&lt;/em&gt; non silvis corpore coniunx ne displicet illa. Crescunt non unus, vidit visa quantum inmiti flumina mortis facto sic: undique a alios vincula sunt iactata abdita! Suspenderat ego fuit tendit: luna, ante urbem Propoetides &lt;strong&gt;parte&lt;/strong&gt;.&lt;/p&gt;</description>
+&lt;p&gt;Pedal Power es una herramienta ideal para sesiones de cine a la fresca, conciertos, performance, DJ sessions, estaciones de carga de móviles, lanzamientos de marcas o presentaciones de productos donde se quiera involucrar al público y transmitir un mensaje de sostenibilidad, diversión y dinamismo.&lt;/p&gt;
+&lt;h2 id=&#34;como-funciona&#34;&gt;Como funciona&lt;/h2&gt;
+&lt;p&gt;Nuestras bicicletas están conectadas a un supercondensador donde se almacena la
+energía cinética producida por el pedaleo. En la power station un inversor de energía
+convierte los 12 voltios DC en 220 voltios AC, permitiéndonos así alimentar cualquier
+dispositivo eléctrico. En Pedal Power no tenemos baterías ni llevamos otra fuente de energía que no sea
+la que nos dé el público.&lt;/p&gt;
+
+</description>
         </item>
         
     </channel>

@@ -3,7 +3,7 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>https://ignatmaldive.github.io/projects/</loc>
-    <lastmod>2020-10-09T00:00:00+00:00</lastmod>
+    <lastmod>2021-01-09T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="zh-cn"
@@ -11,33 +11,15 @@
                 />
     <xhtml:link
                 rel="alternate"
-                hreflang="ar"
-                href="https://ignatmaldive.github.io/projects/ar/"
-                />
-    <xhtml:link
-                rel="alternate"
                 hreflang="en"
                 href="https://ignatmaldive.github.io/projects/"
                 />
   </url><url>
-    <loc>https://ignatmaldive.github.io/projects/archives/</loc>
-    <lastmod>2019-05-28T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://ignatmaldive.github.io/projects/page/</loc>
-    <lastmod>2020-10-09T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="zh-cn"
-                href="https://ignatmaldive.github.io/projects/zh-cn/page/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://ignatmaldive.github.io/projects/page/"
-                />
+    <loc>https://ignatmaldive.github.io/projects/categories/augmented-reality/</loc>
+    <lastmod>2021-01-09T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://ignatmaldive.github.io/projects/categories/</loc>
-    <lastmod>2019-03-11T00:00:00+00:00</lastmod>
+    <lastmod>2021-01-09T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="zh-cn"
@@ -45,50 +27,27 @@
                 />
     <xhtml:link
                 rel="alternate"
-                hreflang="ar"
-                href="https://ignatmaldive.github.io/projects/ar/categories/"
-                />
-    <xhtml:link
-                rel="alternate"
                 hreflang="en"
                 href="https://ignatmaldive.github.io/projects/categories/"
                 />
   </url><url>
-    <loc>https://ignatmaldive.github.io/projects/tags/css/</loc>
-    <lastmod>2019-03-11T00:00:00+00:00</lastmod>
+    <loc>https://ignatmaldive.github.io/projects/tags/digital-fabrication/</loc>
+    <lastmod>2021-01-09T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://ignatmaldive.github.io/projects/tags/html/</loc>
-    <lastmod>2019-03-11T00:00:00+00:00</lastmod>
+    <loc>https://ignatmaldive.github.io/projects/tags/flutter/</loc>
+    <lastmod>2021-01-09T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://ignatmaldive.github.io/projects/tags/markdown/</loc>
-    <lastmod>2019-03-11T00:00:00+00:00</lastmod>
+    <loc>https://ignatmaldive.github.io/projects/categories/mobile/</loc>
+    <lastmod>2021-01-09T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://ignatmaldive.github.io/projects/p/markdown-syntax-guide/</loc>
-    <lastmod>2019-03-11T00:00:00+00:00</lastmod>
+    <loc>https://ignatmaldive.github.io/projects/p/paint-pad/</loc>
+    <lastmod>2021-01-09T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://ignatmaldive.github.io/projects/post/</loc>
-    <lastmod>2019-03-11T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="zh-cn"
-                href="https://ignatmaldive.github.io/projects/zh-cn/post/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="ar"
-                href="https://ignatmaldive.github.io/projects/ar/post/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://ignatmaldive.github.io/projects/post/"
-                />
-  </url><url>
-    <loc>https://ignatmaldive.github.io/projects/categories/syntax/</loc>
-    <lastmod>2019-03-11T00:00:00+00:00</lastmod>
+    <lastmod>2021-01-09T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://ignatmaldive.github.io/projects/tags/</loc>
-    <lastmod>2019-03-11T00:00:00+00:00</lastmod>
+    <lastmod>2021-01-09T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="zh-cn"
@@ -96,89 +55,177 @@
                 />
     <xhtml:link
                 rel="alternate"
-                hreflang="ar"
-                href="https://ignatmaldive.github.io/projects/ar/tags/"
-                />
-    <xhtml:link
-                rel="alternate"
                 hreflang="en"
                 href="https://ignatmaldive.github.io/projects/tags/"
                 />
   </url><url>
-    <loc>https://ignatmaldive.github.io/projects/tags/themes/</loc>
-    <lastmod>2019-03-11T00:00:00+00:00</lastmod>
+    <loc>https://ignatmaldive.github.io/projects/archives/</loc>
+    <lastmod>2019-05-28T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://ignatmaldive.github.io/projects/categories/themes/</loc>
-    <lastmod>2019-03-11T00:00:00+00:00</lastmod>
+    <loc>https://ignatmaldive.github.io/projects/page/</loc>
+    <lastmod>2019-05-28T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://ignatmaldive.github.io/projects/tags/privacy/</loc>
-    <lastmod>2019-03-10T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://ignatmaldive.github.io/projects/p/rich-content/</loc>
-    <lastmod>2019-03-10T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://ignatmaldive.github.io/projects/tags/shortcodes/</loc>
-    <lastmod>2019-03-10T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://ignatmaldive.github.io/projects/p/placeholder-text/</loc>
-    <lastmod>2019-03-09T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="ar"
-                href="https://ignatmaldive.github.io/projects/ar/p/%D9%85%D8%AB%D8%A7%D9%84-%D9%86%D8%B5/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://ignatmaldive.github.io/projects/p/placeholder-text/"
-                />
-  </url><url>
-    <loc>https://ignatmaldive.github.io/projects/tags/tag-with-whitespaces/</loc>
+    <loc>https://ignatmaldive.github.io/projects/categories/%D8%AA%D8%AC%D8%B1%D8%A8%D8%A9/</loc>
     <lastmod>2019-03-09T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://ignatmaldive.github.io/projects/categories/test/</loc>
+    <loc>https://ignatmaldive.github.io/projects/categories/%D8%AA%D8%AC%D8%B1%D8%A8%D8%A9-%D9%85%D8%B9-%D9%81%D8%B1%D8%A7%D8%BA%D8%A7%D8%AA/</loc>
     <lastmod>2019-03-09T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="zh-cn"
-                href="https://ignatmaldive.github.io/projects/zh-cn/categories/test/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://ignatmaldive.github.io/projects/categories/test/"
-                />
+  </url><url>
+    <loc>https://ignatmaldive.github.io/projects/tags/%D9%85%D8%A7%D8%B1%D9%83%D8%AF%D8%A7%D9%88%D9%86/</loc>
+    <lastmod>2019-03-09T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://ignatmaldive.github.io/projects/p/%D9%85%D8%AB%D8%A7%D9%84-%D9%86%D8%B5/</loc>
+    <lastmod>2019-03-09T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://ignatmaldive.github.io/projects/p/%D9%85%D8%AB%D8%A7%D9%84-%D9%86%D8%B5/</loc>
+    <lastmod>2019-03-09T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://ignatmaldive.github.io/projects/tags/%D9%86%D8%B5/</loc>
+    <lastmod>2019-03-09T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://ignatmaldive.github.io/projects/tags/%D9%88%D8%B3%D9%85-%D9%85%D8%B9-%D9%81%D8%B1%D8%A7%D8%BA%D8%A7%D8%AA/</loc>
+    <lastmod>2019-03-09T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://ignatmaldive.github.io/projects/tags/arduino/</loc>
+    <lastmod>2019-02-09T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://ignatmaldive.github.io/projects/tags/bluetooth/</loc>
+    <lastmod>2019-02-09T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://ignatmaldive.github.io/projects/categories/ints/</loc>
+    <lastmod>2019-02-09T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://ignatmaldive.github.io/projects/tags/microcontroller/</loc>
+    <lastmod>2019-02-09T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://ignatmaldive.github.io/projects/p/pedal-power/</loc>
+    <lastmod>2019-02-09T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://ignatmaldive.github.io/projects/tags/processing/</loc>
+    <lastmod>2019-02-09T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://ignatmaldive.github.io/projects/categories/test-with-whitespaces/</loc>
-    <lastmod>2019-03-09T00:00:00+00:00</lastmod>
+    <lastmod>2019-02-09T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://ignatmaldive.github.io/projects/tags/text/</loc>
-    <lastmod>2019-03-09T00:00:00+00:00</lastmod>
+    <loc>https://ignatmaldive.github.io/projects/categories/bitcoin/</loc>
+    <lastmod>2018-01-09T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://ignatmaldive.github.io/projects/p/math-typesetting/</loc>
-    <lastmod>2019-03-08T00:00:00+00:00</lastmod>
+    <loc>https://ignatmaldive.github.io/projects/p/mini-atm/</loc>
+    <lastmod>2018-01-09T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://ignatmaldive.github.io/projects/tags/emoji/</loc>
-    <lastmod>2019-03-05T00:00:00+00:00</lastmod>
+    <loc>https://ignatmaldive.github.io/projects/categories/web3/</loc>
+    <lastmod>2018-01-09T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://ignatmaldive.github.io/projects/p/emoji-support/</loc>
-    <lastmod>2019-03-05T00:00:00+00:00</lastmod>
+    <loc>https://ignatmaldive.github.io/projects/tags/multi-touch/</loc>
+    <lastmod>2008-08-09T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://ignatmaldive.github.io/projects/about/</loc>
-    <lastmod>2020-10-09T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="zh-cn"
-                href="https://ignatmaldive.github.io/projects/zh-cn/%E5%85%B3%E4%BA%8E/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://ignatmaldive.github.io/projects/about/"
-                />
+    <loc>https://ignatmaldive.github.io/projects/categories/optics/</loc>
+    <lastmod>2008-08-09T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://ignatmaldive.github.io/projects/categories/telepresence/</loc>
+    <lastmod>2008-08-09T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://ignatmaldive.github.io/projects/tags/telepresence/</loc>
+    <lastmod>2008-08-09T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://ignatmaldive.github.io/projects/p/teletouch/</loc>
+    <lastmod>2008-08-09T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://ignatmaldive.github.io/projects/tags/amena/</loc>
+    <lastmod>2006-08-09T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://ignatmaldive.github.io/projects/categories/image-recognition/</loc>
+    <lastmod>2006-08-09T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://ignatmaldive.github.io/projects/p/mobile-augmented-reality/</loc>
+    <lastmod>2006-08-09T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://ignatmaldive.github.io/projects/tags/movistar/</loc>
+    <lastmod>2006-08-09T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://ignatmaldive.github.io/projects/tags/vodafone/</loc>
+    <lastmod>2006-08-09T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://ignatmaldive.github.io/projects/tags/fabricaci%C3%B3n-digital/</loc>
+    <lastmod>2004-06-09T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://ignatmaldive.github.io/projects/categories/microcontrolador/</loc>
+    <lastmod>2004-06-09T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://ignatmaldive.github.io/projects/p/robo-one/</loc>
+    <lastmod>2004-06-09T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://ignatmaldive.github.io/projects/categories/rob%C3%B3tica/</loc>
+    <lastmod>2004-06-09T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://ignatmaldive.github.io/projects/p/head-mounted-display-for-augmented-reality/</loc>
+    <lastmod>2003-02-09T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://ignatmaldive.github.io/projects/tags/hmd/</loc>
+    <lastmod>2003-02-09T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://ignatmaldive.github.io/projects/tags/image-recognition/</loc>
+    <lastmod>2003-02-09T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://ignatmaldive.github.io/projects/categories/virtual-reality/</loc>
+    <lastmod>2003-02-09T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://ignatmaldive.github.io/projects/categories/domotics/</loc>
+    <lastmod>2000-06-09T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://ignatmaldive.github.io/projects/p/media-house/</loc>
+    <lastmod>2000-06-09T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://ignatmaldive.github.io/projects/categories/networks/</loc>
+    <lastmod>2000-06-09T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://ignatmaldive.github.io/projects/tags/css/</loc>
+    <lastmod>2000-03-11T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://ignatmaldive.github.io/projects/tags/html/</loc>
+    <lastmod>2000-03-11T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://ignatmaldive.github.io/projects/tags/markdown/</loc>
+    <lastmod>2000-03-11T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://ignatmaldive.github.io/projects/p/markdown-syntax-guide/</loc>
+    <lastmod>2000-03-11T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://ignatmaldive.github.io/projects/categories/syntax/</loc>
+    <lastmod>2000-03-11T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://ignatmaldive.github.io/projects/tags/themes/</loc>
+    <lastmod>2000-03-11T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://ignatmaldive.github.io/projects/categories/themes/</loc>
+    <lastmod>2000-03-11T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://ignatmaldive.github.io/projects/p/test-chinese/</loc>
+    <lastmod>1999-09-09T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://ignatmaldive.github.io/projects/categories/test/</loc>
+    <lastmod>1999-09-09T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://ignatmaldive.github.io/projects/categories/%E6%B5%8B%E8%AF%95/</loc>
+    <lastmod>1999-09-09T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://ignatmaldive.github.io/projects/tags/privacy/</loc>
+    <lastmod>1999-03-10T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://ignatmaldive.github.io/projects/p/rich-content/</loc>
+    <lastmod>1999-03-10T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://ignatmaldive.github.io/projects/tags/shortcodes/</loc>
+    <lastmod>1999-03-10T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://ignatmaldive.github.io/projects/curriculum/</loc>
+  </url><url>
+    <loc>https://ignatmaldive.github.io/projects/p/curriculum-vitae/</loc>
   </url><url>
     <loc>https://ignatmaldive.github.io/projects/links/</loc>
   </url><url>
     <loc>https://ignatmaldive.github.io/projects/search/</loc>
+  </url><url>
+    <loc>https://ignatmaldive.github.io/projects/%E5%85%B3%E4%BA%8E/</loc>
   </url>
 </urlset>
